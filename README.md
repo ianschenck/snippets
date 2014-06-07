@@ -1,0 +1,4 @@
+snippets
+========
+
+Snippets for everyone!
